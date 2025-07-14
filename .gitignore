@@ -16,3 +16,7 @@ profile
 
 # OS X
 .DS_Store
+
+# SPM
+.swiftpm/xcode/xcuserdata
+.swiftpm/package.xcworkspace/xcuserdata
